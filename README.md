@@ -9,5 +9,5 @@ This repository contains a GitHub Actions workflow demonstrating:
 
 ## Author
 
-Email: your_email@example.com  
+Email: 23f2001992@ds.study.iitm.ac.in
 (Replace this with your real email before submitting.)
